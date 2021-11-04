@@ -1,3 +1,5 @@
+Ejercicio de creación de un LOGIN en React, apuntando a un Endpoint de una BD anteriormente creada (la del proyecto de API-BD)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
